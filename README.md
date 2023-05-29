@@ -9,7 +9,7 @@ O departamento comercial demandou um acesso para integração com uma nova API d
 
 Vamos precisar criar uma tela (para demonstração não precisa ter login e senha) com upload de um arquivo csv com um template pré-definido (em anexo) [desafio-backend.csv](https://github.com/byecar-apps/desafio-backendjr-1/files/11592627/desafio-backend.csv). Este arquivo foi gerado a partir do site (https://www.4devs.com.br/gerador_de_pessoas) e não representam dados reais ou de clientes da byecar.
 
-O endpoint que permitirá a visualização dos dados em formato JSON de toda coleção disponível no banco de dados.
+Será necessário disponibilizar um endpoint que permitirá a visualização dos dados em formato JSON de toda coleção disponível no banco de dados.
 
 ## Restrições tecnológicas
 * O front-end poderá ser construído em qualquer linguagem;
