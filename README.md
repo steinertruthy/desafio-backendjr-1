@@ -7,7 +7,7 @@ Este desafio tem por objetivo compreender as formas como você resolve um determ
 ## Problema
 O departamento comercial demandou um acesso para integração com uma nova API de terceiros, onde teremos que importar uma planilha excel com alguns dados específicos, gravar em um banco de dados Mysql e disponibilizar esses dados através de uma API.
 
-Vamos precisar criar uma tela (para demonstração não precisa ter login e senha) com upload de um arquivo xlsx com um template pré-definido (em anexo) [desafio-backend.csv](https://github.com/byecar-apps/desafio-backendjr-1/files/11592627/desafio-backend.csv). Este arquivo foi gerado a partir do site (https://www.4devs.com.br/gerador_de_pessoas) e não representam dados reais ou de clientes da byecar.
+Vamos precisar criar uma tela (para demonstração não precisa ter login e senha) com upload de um arquivo csv com um template pré-definido (em anexo) [desafio-backend.csv](https://github.com/byecar-apps/desafio-backendjr-1/files/11592627/desafio-backend.csv). Este arquivo foi gerado a partir do site (https://www.4devs.com.br/gerador_de_pessoas) e não representam dados reais ou de clientes da byecar.
 
 O endpoint que permitirá a visualização dos dados em formato JSON de toda coleção disponível no banco de dados.
 
