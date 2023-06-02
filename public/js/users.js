@@ -13,13 +13,13 @@ class Pessoas {
             }).then((resp) => resp.json());
 
             this.handleListUsers(resp);
-        } catch (error) {
-            console.error(error);
-        }
+        } catch (error) {}
     }
 
     static handleListUsers(respUsers) {
         const list = document.querySelector("#list__users");
+
+        if (!respUsers) return;
 
         respUsers.forEach((user) => {
             const card = this.handleCreateCardUsers(user);
