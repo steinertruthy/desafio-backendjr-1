@@ -31,7 +31,7 @@ return new class extends Migration
             $table->string('cidade', 72);
             $table->string('estado', 72);
             $table->string('telefone_fixo', 14);
-            $table->string('celular', 15);
+            $table->string('celular', 16);
             $table->string('altura', 4);
             $table->string('peso', 6);
             $table->string('tipo_sanguineo', 4);
