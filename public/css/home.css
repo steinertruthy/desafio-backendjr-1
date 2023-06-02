@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+form {
+    padding: 1rem;
+    background-color: white;
+    width: max-content;
+    border-radius: 0.25rem;
+    margin: 1rem auto 0;
+}
+
+form > button {
+    color: white;
+    background-color: #4fbce6;
+    border: none;
+}
+
+section {
+    width: 100%;
+    max-width: 43.75rem;
+    margin: 2rem auto 0;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 0.25rem;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin: 2rem auto 0;
+    background-color: white;
+    width: max-content;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+a > img {
+    display: block;
+    width: 2rem;
+    height: 2rem;
+}
