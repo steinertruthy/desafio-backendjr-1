@@ -22,7 +22,7 @@
 
         <section>
             <h2>Lista de usuários</h2>
-            <ul id="list_users">
+            <ul id="list__users">
 
             </ul>
         </section>

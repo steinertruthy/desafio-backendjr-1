@@ -25,9 +25,9 @@
             <button type="submit">Enviar</button>
         </form>
 
-        <a href="">
+        <a href="/api/auth/github">
             <img src="{{asset('img/github-icon.svg')}}" alt="">
-            Visualizar pessoas cadastradas
+            Visualizar usuários cadastrados
         </a>
 
         <script src="{{asset('js/home.js')}}"></script>
