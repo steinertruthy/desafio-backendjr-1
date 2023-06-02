@@ -25,8 +25,7 @@ Será necessário disponibilizar um endpoint que permitirá a visualização dos
 
 
 ## Mais sobre o projeto
-
-![desafio-backendjr-1](https://github.com/diogo-steiner/desafio-backendjr-1/assets/106714068/f5a3f132-872d-4149-b42d-bf2ec1e2cde0)
+![desafio-backendjr-1](https://github.com/diogo-steiner/desafio-backendjr-1/assets/106714068/24170f71-76b4-45a5-aaf9-f7bfc2d2d6f0)
 > Projeto desenvolvido em laravel para o teste técnico para desenvolvedor back-end da Byecar.
 
 
@@ -74,6 +73,7 @@ $ php artisan serve
 <br>
 
 ## 📋 Documentação
+Na raiz do projeto existe um arquivo chamado Insomnia_2023-06-02.json, ele pode ser importado e usado como documentação no Insomnia
 
 ### Usuários
 
