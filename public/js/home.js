@@ -12,7 +12,7 @@ class Home {
             }
 
             const formData = new FormData();
-            formData.append("file", file);
+            formData.append("csv", file);
 
             try {
                 const resp = await fetch(`http://localhost:8000/api/users`, {
